@@ -44,6 +44,8 @@ A rigorous end-to-end A/B testing workflow:
 ---
 
 ## 📁 Repo Structure
+
+```
 cookie-cats-ab-test/
 ├── README.md
 ├── notebooks/
@@ -51,6 +53,7 @@ cookie-cats-ab-test/
 ├── data/
 │   └── cookie_cats.csv           # Raw dataset
 └── images/                       # Generated charts
+```
 
 ---
 
